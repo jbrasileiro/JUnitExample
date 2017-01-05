@@ -1,0 +1,8 @@
+/target/
+/JUnitExample-mockito/.project
+/.classpath
+/.project
+.settings
+/JUnitExample-core/.classpath
+/JUnitExample-core/.project
+/JUnitExample-mockito/.classpath
