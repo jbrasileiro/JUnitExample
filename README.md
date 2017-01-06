@@ -3,7 +3,8 @@ JUnit Example
 
 #GET STARTED
 
-- [JUNIT CLASSES](/MD/junit-basic.md)
+## Starting unit testing
+- [Starting unit testing](/MD/junit-starting-testing.md)
 
 # Structure
  The UT has a basic structure:
@@ -14,7 +15,7 @@ JUnit Example
   
   3 - Post-Execution
 
-# Structure with any Mock framework
+# Structure with any mock framework
 
 - [Junit with mockito](/MD/junit-mockito.md)
 
