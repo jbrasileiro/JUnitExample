@@ -39,7 +39,7 @@
 
     * [class](../../JUnitExample-core/src/main/java/org/junitexample/coffeetalk/ut/subtype/AbstractTransformerCollectionTo.java)
     
-    * [test](../../JUnitExample-core/src/test/java/org/junitexample/coffeetalk/ut/subtype/AbstractTransformerCollectionTo.java)
+    * [test](../../JUnitExample-core/src/test/java/org/junitexample/coffeetalk/ut/subtype/AbstractTransformerCollectionToTest.java)
 
 2. Subtype
 
