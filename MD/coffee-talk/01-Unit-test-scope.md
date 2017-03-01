@@ -6,17 +6,21 @@
 * Easy
 
     ** Assert.assertEquals(new NameGenerate().generate(), "ONE_NAME");
+    
     ** Assert.assertEquals(validator.validate(new ValidObject()), true);   
 
 * Unit Tests Should Be Atomic
 
     ** [speak]
+    
     ** Atomic tests are order-independent, relying on and causing no side effects.
 
 * Independent and Isolated
 
     ** [speak]
+    
     ** Order Independent
+    
     ** Resource Independent   
 
 * Runs Fast
@@ -44,8 +48,12 @@
 
 ##depedency
 
-* [class](/../../JUnitExample-core/src/main/java/org/junitexample/coffeetalk/ut/depedency/PasswordValidatorDepency.java)
-* [test](/../../JUnitExample-core/src/main/java/org/junitexample/coffeetalk/ut/depedency/PasswordValidatorDepencyTest.java)
+* DESIGN #01
 
-* [class](/../../JUnitExample-core/src/main/java/org/junitexample/coffeetalk/ut/depedency/PasswordValidatorImp.java)
-* [test](/../../JUnitExample-core/src/main/java/org/junitexample/coffeetalk/ut/depedency/PasswordValidatorImpTest.java) 
+    * [class](/../../JUnitExample-core/src/main/java/org/junitexample/coffeetalk/ut/depedency/PasswordValidatorDepency.java)
+    * [test](/../../JUnitExample-core/src/main/java/org/junitexample/coffeetalk/ut/depedency/PasswordValidatorDepencyTest.java)
+
+* DESIGN #02
+
+    * [class](/../../JUnitExample-core/src/main/java/org/junitexample/coffeetalk/ut/depedency/PasswordValidatorImp.java)
+    * [test](/../../JUnitExample-core/src/main/java/org/junitexample/coffeetalk/ut/depedency/PasswordValidatorImpTest.java) 
