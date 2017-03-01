@@ -14,19 +14,19 @@
 
 1. UT
 
-![alt tag](/MD/coffee-talk/img/scope-it.png)
+    ![alt tag](/MD/coffee-talk/img/scope-it.png)
 
 2. End2End
 
-![alt tag](/MD/coffee-talk/img/scope-e2e.png)
+    ![alt tag](/MD/coffee-talk/img/scope-e2e.png)
 
 # Difference
 
 |              | UT		  | IT 			  |
 | :----------- | :------: | ------------: |
-| scope	       | UNIT     | FEATURE       |
-| speed	       | QUICK    | SLOW          |
-| complexity   | VERY LOW | > LOW         |
-| approach	   | TDD	  | TDD/BDD       |
-| depedency	   | NO  	  | ENVIROMENT    |
-| realiability | HIGH	  | VERY LOW      |
+| SCOPE	       | UNIT     | FEATURE       |
+| SPEED	       | QUICK    | SLOW          |
+| COMPLEXITY   | VERY LOW | > LOW         |
+| APPROACH	   | TDD	  | TDD/BDD       |
+| DEPEDENCY	   | NO  	  | ENVIROMENT    |
+| REALIABILITY | HIGH	  | VERY LOW      |
