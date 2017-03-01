@@ -30,18 +30,21 @@
 ##single
 
 * [class](../../JUnitExample-core/src/main/java/org/junitexample/coffeetalk/ut/simple/EmailValidator.java)
+
 * [test](../../JUnitExample-core/src/test/java/org/junitexample/coffeetalk/ut/simple/EmailValidatorTest.java)
 
 ##subtype
 
-1 type
+1. Type
 
     * [class](../../JUnitExample-core/src/main/java/org/junitexample/coffeetalk/ut/subtype/AbstractTransformerCollectionTo.java)
+    
     * [test](../../JUnitExample-core/src/main/java/org/junitexample/coffeetalk/ut/subtype/AbstractTransformerCollectionTo.java)
 
-2 subtype
+2. Subtype
 
-    * [class](../../JUnitExample-core/src/main/java/org/junitexample/coffeetalk/ut/subtype/Bean2XMLTransformer.java)
+    * [class](../../JUnitExample-core/src/main/java/org/junitexample/coffeetalk/ut/subtype/Bean2XMLTransformer.java) 
+    
     * [test](../../JUnitExample-core/src/main/java/org/junitexample/coffeetalk/ut/subtype/Bean2XMLTransformerTest.java)
 
 ##depedency
