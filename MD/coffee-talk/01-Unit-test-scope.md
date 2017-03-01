@@ -5,27 +5,25 @@
 ## Characteristic
 * Easy
 
-    ** Assert.assertEquals(new NameGenerate().generate(), "ONE_NAME");
-    
-    ** Assert.assertEquals(validator.validate(new ValidObject()), true);   
+    * Assert.assertEquals(new NameGenerate().generate(), "ONE_NAME");
+    * Assert.assertEquals(validator.validate(new ValidObject()), true);   
 
 * Unit Tests Should Be Atomic
 
-    ** [speak]
-    
-    ** Atomic tests are order-independent, relying on and causing no side effects.
+    * [speak]
+    * Atomic tests are order-independent, relying on and causing no side effects.
 
 * Independent and Isolated
 
-    ** [speak]
+    * [speak]
     
-    ** Order Independent
+    * Order Independent
     
-    ** Resource Independent   
+    * Resource Independent   
 
 * Runs Fast
 
-    ** [speak]
+    * [speak]
 
 #Example
 
