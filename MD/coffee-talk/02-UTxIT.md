@@ -23,7 +23,7 @@
 # Difference
 
 |              | UT		  | IT 			  |
-| :----------- | :------: | ------------: |
+| :----------- | :------: | :-----------: |
 | SCOPE	       | UNIT     | FEATURE       |
 | SPEED	       | QUICK    | SLOW          |
 | COMPLEXITY   | VERY LOW | > LOW         |
