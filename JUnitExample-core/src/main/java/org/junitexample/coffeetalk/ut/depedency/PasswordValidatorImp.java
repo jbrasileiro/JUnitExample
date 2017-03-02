@@ -18,7 +18,9 @@ public class PasswordValidatorImp
     public boolean validate(
         final String password) {
         for (PasswordValidator passwordValidator : validators) {
-            passwordValidator.validate(password);
+            if (!passwordValidator.validate(password)) {
+                throw new IllegalStateException();
+            }
         }
         return true;
     }

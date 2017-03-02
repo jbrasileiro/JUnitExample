@@ -16,12 +16,14 @@
  */
 package org.junitexample.core;
 
+import org.junit.Before;
 import org.junit.Test;
 
 public class ExampleTest {
     
     private Example test;
 
+    @Before
     public void setUp(){
         test = new Example();
     }
