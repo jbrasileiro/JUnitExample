@@ -3,11 +3,16 @@
 # Meaning
 ![alt tag one](/MD/coffee-talk/img/def-unit-test.png)
 
-JUnit in Action, Second Edition 2nd Edition
-by Petar Tahchiev (Author), Felipe Leme (Author), Vincent Massol (Author), Gary Gregory (Author)
+* JUnit in Action, Second Edition 2nd Edition
+    * by Petar Tahchiev (Author), Felipe Leme (Author), Vincent Massol (Author), Gary Gregory (Author)
+
 
 
 ![alt tag two](/MD/coffee-talk/img/def-unit-test-second.png)
+
+
+* Practical Unit Testing with JUnit and Mockito Paperback 
+    * by Tomek Kaczanowski (Author)
 
 
 # Scope
