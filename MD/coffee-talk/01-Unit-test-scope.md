@@ -1,10 +1,5 @@
 #01 - UT Scope
 
-![alt tag](/MD/coffee-talk/img/def-unit-test.png)
-
-JUnit in Action, Second Edition 2nd Edition
-by Petar Tahchiev (Author), Felipe Leme (Author), Vincent Massol (Author), Gary Gregory (Author)
-
 ## Characteristic
 * Easy
 
