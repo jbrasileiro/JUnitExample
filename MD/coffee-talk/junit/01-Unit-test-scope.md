@@ -8,12 +8,9 @@
 
 * Unit Tests Should Be Atomic
 
-    * [speak]
     * Atomic tests are order-independent, relying on and causing no side effects.
 
 * Independent and Isolated
-
-    * [speak]
     
     * Order Independent
     
