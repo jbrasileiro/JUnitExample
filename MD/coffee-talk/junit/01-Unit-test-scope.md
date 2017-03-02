@@ -26,33 +26,30 @@
 #Example
 
 ##single
-
-* [class](../../../JUnitExample-core/src/main/java/org/junitexample/coffeetalk/ut/simple/EmailValidator.java)
-
-* [test](../../../JUnitExample-core/src/test/java/org/junitexample/coffeetalk/ut/simple/EmailValidatorTest.java)
+JUnitExample-core/pom.xml
+* [class](/JUnitExample-core/src/main/java/org/junitexample/coffeetalk/ut/simple/EmailValidator.java)
+* [test](/JUnitExample-core/src/test/java/org/junitexample/coffeetalk/ut/simple/EmailValidatorTest.java)
 
 ##subtype
 
 1. Type
 
-    * [class](../../../JUnitExample-core/src/main/java/org/junitexample/coffeetalk/ut/subtype/AbstractTransformerCollectionTo.java)
-    
-    * [test](../../../JUnitExample-core/src/test/java/org/junitexample/coffeetalk/ut/subtype/AbstractTransformerCollectionToTest.java)
+    * [class](/JUnitExample-core/src/main/java/org/junitexample/coffeetalk/ut/subtype/AbstractTransformerCollectionTo.java)
+    * [test](/JUnitExample-core/src/test/java/org/junitexample/coffeetalk/ut/subtype/AbstractTransformerCollectionToTest.java)
 
 2. Subtype
 
-    * [class](../../../JUnitExample-core/src/main/java/org/junitexample/coffeetalk/ut/subtype/Bean2XMLTransformer.java) 
-    
-    * [test](../../../JUnitExample-core/src/test/java/org/junitexample/coffeetalk/ut/subtype/Bean2XMLTransformerTest.java)
+    * [class](/JUnitExample-core/src/main/java/org/junitexample/coffeetalk/ut/subtype/Bean2XMLTransformer.java) 
+    * [test](/JUnitExample-core/src/test/java/org/junitexample/coffeetalk/ut/subtype/Bean2XMLTransformerTest.java)
 
 ##depedency
 
 * DESIGN #01
 
-    * [class](../../../JUnitExample-core/src/main/java/org/junitexample/coffeetalk/ut/depedency/PasswordValidatorDepency.java)
-    * [test](../../../JUnitExample-core/src/test/java/org/junitexample/coffeetalk/ut/depedency/PasswordValidatorDepencyTest.java)
+    * [class](/JUnitExample-core/src/main/java/org/junitexample/coffeetalk/ut/depedency/PasswordValidatorDepency.java)
+    * [test](/JUnitExample-core/src/test/java/org/junitexample/coffeetalk/ut/depedency/PasswordValidatorDepencyTest.java)
 
 * DESIGN #02
 
-    * [class](../../../JUnitExample-core/src/main/java/org/junitexample/coffeetalk/ut/depedency/PasswordValidatorImp.java)
-    * [test](../../../JUnitExample-core/src/test/java/org/junitexample/coffeetalk/ut/depedency/PasswordValidatorImpTest.java) 
+    * [class](/JUnitExample-core/src/main/java/org/junitexample/coffeetalk/ut/depedency/PasswordValidatorImp.java)
+    * [test](/JUnitExample-core/src/test/java/org/junitexample/coffeetalk/ut/depedency/PasswordValidatorImpTest.java) 
