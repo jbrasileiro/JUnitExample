@@ -2,19 +2,17 @@
 
 ## Content
 
-### UT Scope (5min)
+### UT Scope.
 
 - [link](/MD/coffee-talk/junit/01-Unit-test-scope.md)
  
-### Diference between UT(Unit test) & IT (Integration Test). (5min)
+### Diference between UT(Unit test) & IT (Integration Test).
 
 - [link](/MD/coffee-talk/junit/02-UTxIT.md)
 
-### Developing UT : legacy code & new code.(10min)
+### Developing UT : legacy code & new code.
 
-- [link](/)
-- [test](/JUnitExample-core/pom.xml)
-### Parameterized Test & Theories.(10min)
+### Parameterized Test & Theories.
 
-- [link](/)
+- [link](/MD/coffee-talk/junit/04-ParameterizedTest-and-Theories.md)
 
