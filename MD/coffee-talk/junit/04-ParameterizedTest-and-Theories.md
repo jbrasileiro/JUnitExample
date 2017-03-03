@@ -16,7 +16,7 @@
 
 Theory class is generally easier;
 No need fields or a constructor. 
-Are intended to be more expressive of the tester's goals;
+Intended to be more expressive of the tester's goals;
 Original paper proposed theories called them as "specifications that catch bugs."
 
 You should have noticed, however, that there is no means of pairing a specific result with a specific data point.
@@ -26,4 +26,13 @@ Large set of inputs with varying results, then, you will still need to write par
 Parameterized tests give the you greater flexibility as an author, but the semantics of the test are usually implicit.
 
 
-#Rules
+#Exception
+
+## Classic way
+* [test](/JUnitExample-core/src/test/java/org/junitexample/coffeetalk/ut/exceptions/ExcpetionHandlerTest.java)
+
+## Annotation
+* [test](/JUnitExample-core/src/test/java/org/junitexample/coffeetalk/ut/exceptions/ExcpetionHandlerAnnotationTest.java)
+
+## Rule
+* [test](/JUnitExample-core/src/test/java/org/junitexample/coffeetalk/ut/exceptions/ExcpetionHandlerRuleTest.java)
