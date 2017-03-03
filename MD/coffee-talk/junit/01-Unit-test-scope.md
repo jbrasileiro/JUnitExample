@@ -1,24 +1,30 @@
 #01 - UT Scope
 
-## Characteristic
+## Characteristic (KEYWORDS)
 * Easy
 
     * Assert.assertEquals(new NameGenerate().generate(), "ONE_NAME");
-    * Assert.assertEquals(validator.validate(new ValidObject()), true);   
+    * Assert.assertEquals(validator.validate(new ValidObject()), true); 
 
-* Unit Tests Should Be Atomic
+* Atomic
 
-    * Atomic tests are order-independent, relying on and causing no side effects.
+## Principles
 
-* Independent and Isolated
-    
-    * Order Independent
-    
-    * Resource Independent   
+### F.I.R.S.T.
+* __[F]__AST
+* __[I]__SOLATED/INDEPENDENT
+* __[R]__EPEATABLE
+* __[S]__ELF-VALIDATING
+* __[T]__HOROUGH/TIMELY
+    * Should cover every use case scenario and NOT just aim for 100% coverage.
+    * Should try to aim for Test Driven Development (TDD) so that code does not need re-factoring later.
 
-* Runs Fast
 
-    * [speak]
+### 3A (AAA).
+
+* __[A]__rrange
+* __[A]__ct
+* __[A]__ssert
 
 #Example
 
