@@ -11,20 +11,20 @@
 ## Principles
 
 ### F.I.R.S.T.
-* __[F]__AST
-* __[I]__SOLATED/INDEPENDENT
-* __[R]__EPEATABLE
-* __[S]__ELF-VALIDATING
-* __[T]__HOROUGH/TIMELY
+* __[F]__ AST
+* __[I]__ SOLATED/INDEPENDENT
+* __[R]__ EPEATABLE
+* __[S]__ ELF-VALIDATING
+* __[T]__ HOROUGH/TIMELY
     * Should cover every use case scenario and NOT just aim for 100% coverage.
     * Should try to aim for Test Driven Development (TDD) so that code does not need re-factoring later.
 
 
 ### 3A (AAA).
 
-* __[A]__rrange
-* __[A]__ct
-* __[A]__ssert
+* __[A]__ rrange
+* __[A]__ ct
+* __[A]__ ssert
 
 #Example
 
