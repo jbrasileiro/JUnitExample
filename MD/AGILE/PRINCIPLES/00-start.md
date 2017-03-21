@@ -1,4 +1,5 @@
 #Agile Development - The Prologue
+
 Agile is a vast global movement that has been transforming the software world.
 A little about history; the movement took off in software development in 2001 and is now spreading rapidly to all parts, and all kinds, of organizations, as recognized in 2016 by the citadel of general management — Harvard Business Review — with its article:
  - “Embracing Agile,”
@@ -6,7 +7,9 @@ A little about history; the movement took off in software development in 2001 an
 
 Yet what exactly is Agile?
 How do you explain Agile when there are more than forty different variants of Agile!?
+
 ![alt tag](/MD/AGILE/PRINCIPLES/imgscope-it.png)
+
 * Explaining Agile - Agile 40 flavores[^2]
 
 # Going Back to Agile Manifesto
@@ -25,19 +28,20 @@ It was at the second meeting where the Agile Manifesto and the Twelve Principles
 
 The Manifesto reads [^1]:
 
->“We are uncovering better ways of developing software by doing it and helping others do it. Through this work, we have come to value:
+>We are uncovering better ways of developing software by doing it and helping others do it. Through this work, we have come to value:
 >
->    *__Individuals and interactions__ over* processes and tools
+>     *__Individuals and interactions__ over* processes and tools
 >
->    *__Working software__ over* comprehensive documentation
+>     *__Working software__ over* comprehensive documentation
 >
->    *__Customer collaboration__ over* contract negotiation
+>     *__Customer collaboration__ over* contract negotiation
 >
->    *__Responding to change__ over* following a plan
+>     *__Responding to change__ over* following a plan
 >
->That is, while there is value in the items on the right, we value the items on the left more.”
+>That is, while there is value in the items on the right, we value the items on the left more.
 
 ## Twelve Agile Principles
+
 Theses 12 principles is a group of guiding concepts, with a proprose to help and support project teams in implementing agile projects.
 
     * 01 - Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
@@ -68,11 +72,13 @@ Theses 12 principles is a group of guiding concepts, with a proprose to help and
 
 The Agile Manifesto is comprised of four foundational values and 12 supporting principles which lead the Agile approach to software development.
 Each Agile methodology applies the four values in different ways, but all of them rely on them to guide the development and delivery of high-quality, working software.
+
 ![alt tag](/MD/AGILE/PRINCIPLES/img/What-is-Ageil-by-Ahmed-Sidky-r1.jpg)
 
 # What is Agile
 
 In a nullshell Agile is a time boxed, iterative approach to software delivery that builds software incrementally from the start of the project, instead of trying to deliver it all at once near the end.
+
 ![alt tag](/MD/AGILE/PRINCIPLES/img/agile_x_waterfall.jpg)
 
 
@@ -81,6 +87,7 @@ To be successful with Agile, you must accept uncertainty, value interactions, an
 
 
 # REFERENCES:
+
 [^1]Manifesto for Agile Software Development  - http://agilemanifesto.org/
 [^2]Explaining Agile - https://www.forbes.com/sites/stevedenning/2016/09/08/explaining-agile/#5756d66d301b
 [^3]What is Agile - https://www.forbes.com/sites/stevedenning/2016/08/13/what-is-agile/#58d0e3026e3d
