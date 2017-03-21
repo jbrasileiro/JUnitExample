@@ -4,22 +4,23 @@ date: 2017-03-21T13:00:00-03:00
 title: "Desenvolvimento AGILE - Uma Rápida Referência."
 author: joaobrasileiro
 abstract: >
-  _AGILE_ uma metologia de desenvolvimento de software bastante "utilizada" e difundida no mercado. Vamos explorar um pouco e buscar a essência da filosofia _AGILE_ fazendo um breve _overview_ de seus valores e principios básicos.
+  AGILE uma metologia de desenvolvimento de software bastante "utilizada" e difundida no mercado. Vamos explorar um pouco e buscar a essência da filosofia AGILE fazendo um breve overview de seus valores e principios básicos.
 ---
 
 
 # Desenvolvimento Agile - O prólogo.
 
 _AGILE_ é um vasto movimento global que tem transformado o mercado de software.
+
 Teve seu início em 2001, e desde então espalhou-se por todas as partes, e em todos os tipos de organização, sendo reconhecido em 2016 pela _Harvard Business Review_ em seu artigo:
 
    - “Embracing Agile,” by Darrell K. Rigby, Jeff Sutherland and Hirakata Takeuchi.
 
 Mas, ainda sim, o que exatamente seria o _AGILE_?
+
 Como podemos explicar esse termo, quando se há inúmeras formas de aplicação/implementação, como entender mais de quarenta tipos diferente de _AGILE_?!
 
 ![alt tag](/MD/AGILE/PRINCIPLES/img/Agile-40-flavors.jpg)
-(img: Explaining Agile - Agile 40 flavores)[2] 
 
 # De volta ao _Agile Manifesto_
 
@@ -28,8 +29,11 @@ De volta as suas origens, o _Agile Manifesto_ e seus doze princípios foram cons
 ## Um Pouco de História
 
 O enorme tempo de atraso entre os requisitos de negócio (as aplicações e características que os clientes estavam solicitando) e a entrega da tecnologia que deveria atender essa necessidade, levou a uma enorme número de projetos cancelados.
-Negócios, requisitos e solicitações do cliente mudaram durante este tempo de latência e o produto final dificilmente atendia às necessidades atuais.
-Os modelos de desenvolvimento de software da época, liderados pelo modelo _Waterfall_, não estavam atendendo à demanda da rapidez das mudanças, e não aproveitaram a rapidez com que o software poderia ser alterado.
+
+As partes de negócios, requisitos e solicitações do cliente frequetentemente mudavam durante este tempo de latência e o produto final dificilmente atendia às necessidades atuais.
+
+Os modelos de desenvolvimento de software da época, liderados pelo modelo _WATERFALL_, não estavam atendendo à demanda em relação a rapidez das mudanças, e não aproveitavam a rapidez com que o software poderia ser alterado.
+
 Em 2000, um grupo de dezessete “líderes de pensamento”, incluindo Jon Kern, Kent Beck, Ward Cunningham, Arie van Bennekum e Alistair Cockburn, se encontraram pela primeira vez _resort_ em Oregon e mais tarde, em 2001, na estância de esqui The Lodge at Snowbird em Utah.
 Foi nessa segunda reunião em que o Manifesto Ágil e os doze princípios foram formalmente escritos.
 
@@ -48,15 +52,14 @@ O Manifesto [1]:
 
 ## De Volta Para O Presente
 
-O Manifesto Ágil é composto desses quatro valores fundamentais e 12 princípios de apoio que levam e desenvolvem a abordagem Ágil.
+O Manifesto Ágil é composto desses quatro valores fundamentais e mais 12 princípios de apoio que levam e desenvolvem a abordagem Ágil.
 Cada metodologia aplica os quatro valores de diferentes maneiras, mas todos dependem deles para orientar o desenvolvimento a entregas de alta qualidade.
 
 ![alt tag](/MD/AGILE/PRINCIPLES/img/agile-flow.jpg)
-(img: What is Agile)[3]
 
 ## Os Valores Agile
 
-Seu objetivo principal era descrever a nova filosofia sobre a qual poderiam ser construídas práticas de desenvolvimento de software mais flexíveis e adaptáveis
+Seu objetivo principal era descrever a nova filosofia sobre a qual poderiam ser construídas práticas de desenvolvimento de software mais flexíveis e adaptáveis:
 
    - _**Indivíduos e interações** mais que_ processos e ferramentas
     
@@ -99,14 +102,21 @@ Esses princípios são um grupo de conceitos guias, com o propósito de ajudar e
 
 # o que é Agile ?
 
-Agile é uma abordagem iterativa de entrega de software que constrói de forma incremental desde o início do projeto, em vez de tentar entregá-lo de uma só vez perto do final.
+Finalmente, respondendo a pergunta:
+
+De modo sucinto, Agile é uma abordagem iterativa de entrega de software que constrói de forma incremental desde o início do projeto, em vez de tentar entregá-lo de uma só vez perto do final.
 
 ![alt tag](/MD/AGILE/PRINCIPLES/img/agile_x_waterfall.jpg)
 
 
-Agile evoluiu de ideologia para metodologia ao longo dos anos, hoje temos planty tipos de metodologias de desenvolvimento ágil disponíveis, desde a sua publicação, foram construídas em torno destes princípios, incluindo Scrum, Extreme Programming (XP), Kanban, Scrumban e mais recentemente DevOps.
+Agile evoluiu de ideologia para metodologia ao longo dos anos, hoje temos um grande variedade de tipos de metodologias de desenvolvimento disponíveis, desde a sua publicação, foram construídas em torno destes princípios incluindo 
+ - SCRUM
+ - Extreme Programming (XP)
+ - Kanban
+ - Scrumban
+ - DEVOPS (mais recentemente).
 
-Para ter sucesso com o Agile, você deve aceitar a incerteza, valorizar as interações e se concentrar na entrega de produtos de trabalho a cada passo do processo, e suas partes interessadas devem entender os custos e os benefícios dessas escolhas.
+Para ter sucesso com o Agile, é necessario aceitar algumas incertezas, saber valorizar as interações e se concentrar na entrega de produtos de trabalho a cada passo do processo, e suas partes interessadas devem entender os custos e os benefícios dessas escolhas.
 
 # REFERENCES:
 
