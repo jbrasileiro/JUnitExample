@@ -1,16 +1,17 @@
+
 #Agile Development - The Prologue
 
 Agile is a vast global movement that has been transforming the software world.
 A little about history; the movement took off in software development in 2001 and is now spreading rapidly to all parts, and all kinds, of organizations, as recognized in 2016 by the citadel of general management — Harvard Business Review — with its article:
- - “Embracing Agile,”
- by Darrell K. Rigby, Jeff Sutherland and Hirakata Takeuchi.
+ “Embracing Agile,” by Darrell K. Rigby, Jeff Sutherland and Hirakata Takeuchi.
 
 Yet what exactly is Agile?
+
 How do you explain Agile when there are more than forty different variants of Agile!?
 
-![alt tag](/MD/AGILE/PRINCIPLES/imgscope-it.png)
+![alt tag](/MD/AGILE/PRINCIPLES/img/Agile-40-flavors.jpg)
 
-* Explaining Agile - Agile 40 flavores[^2]
+* Explaining Agile - Agile 40 flavores[2]
 
 # Going Back to Agile Manifesto
 
@@ -26,18 +27,18 @@ It was at the second meeting where the Agile Manifesto and the Twelve Principles
 
 ## Values
 
-The Manifesto reads [^1]:
+The Manifesto reads [1]:
 
 >We are uncovering better ways of developing software by doing it and helping others do it. Through this work, we have come to value:
->
->     *__Individuals and interactions__ over* processes and tools
->
->     *__Working software__ over* comprehensive documentation
->
->     *__Customer collaboration__ over* contract negotiation
->
->     *__Responding to change__ over* following a plan
->
+
+     *__Individuals and interactions__ over* processes and tools
+
+     *__Working software__ over* comprehensive documentation
+
+     *__Customer collaboration__ over* contract negotiation
+
+     *__Responding to change__ over* following a plan
+
 >That is, while there is value in the items on the right, we value the items on the left more.
 
 ## Twelve Agile Principles
