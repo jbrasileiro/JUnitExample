@@ -54,7 +54,7 @@ Theses statement of values was intended to represent the “new” concepts behind A
 
 ## Twelve Agile Principles
 
-Theses 12 principles is a group of guiding concepts, with a proprose to help and support project teams in implementing agile projects._
+Theses 12 principles is a group of guiding concepts, with a proprose to help and support project teams in implementing agile projects.
 
    1. _Our highest priority is to satisfy the customer through early and continuous delivery of valuable software._
 
@@ -85,7 +85,7 @@ Theses 12 principles is a group of guiding concepts, with a proprose to help and
 The Agile Manifesto is comprised of four foundational values and 12 supporting principles which lead the Agile approach to software development.
 Each Agile methodology applies the four values in different ways, but all of them rely on them to guide the development and delivery of high-quality, working software.
 
-![alt tag](/MD/AGILE/PRINCIPLES/img/What-is-Ageil-by-Ahmed-Sidky-r1.jpg)
+![alt tag](/MD/AGILE/PRINCIPLES/img/agile-flow.jpg)
 (img: What is Agile)[3]
 
 # What is Agile ?
