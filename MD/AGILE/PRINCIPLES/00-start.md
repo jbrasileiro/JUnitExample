@@ -54,31 +54,31 @@ Theses statement of values was intended to represent the “new” concepts behind A
 
 ## Twelve Agile Principles
 
-Theses 12 principles is a group of guiding concepts, with a proprose to help and support project teams in implementing agile projects.
+Theses 12 principles is a group of guiding concepts, with a proprose to help and support project teams in implementing agile projects._
 
-   1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
+   1. _Our highest priority is to satisfy the customer through early and continuous delivery of valuable software._
 
-   2. Welcome changing requirements, even late in development. Agile processes harness change for the customer’s competitive advantage.
+   2. _Welcome changing requirements, even late in development. Agile processes harness change for the customer’s competitive advantage._
 
-   3. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
+   3. _Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale._
 
-   4. Business people and developers must work together daily throughout the project.
+   4. _Business people and developers must work together daily throughout the project._
 
-   5. Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
+   5. _Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done._
 
-   6. The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
+   6. _The most efficient and effective method of conveying information to and within a development team is face-to-face conversation._
 
-   7. Working software is the primary measure of progress.
+   7. _Working software is the primary measure of progress._
 
-   8. Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
+   8. _Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely._
 
-   9. Continuous attention to technical excellence and good design enhances agility.
+   9. _Continuous attention to technical excellence and good design enhances agility._
 
-   10. Simplicity — the art of maximizing the amount of work not done — is essential.
+   10. _Simplicity — the art of maximizing the amount of work not done — is essential._
 
-   11. The best architectures, requirements, and designs emerge from self-organizing teams.
+   11. _The best architectures, requirements, and designs emerge from self-organizing teams._
 
-   12. At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
+   12. _At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly._
 	
 ## Welcome back to the present
 
