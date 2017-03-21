@@ -1,0 +1,6 @@
+https://zeroturnaround.com/rebellabs/the-correct-way-to-use-integration-tests-in-your-build-process/
+http://www.guru99.com/unit-test-vs-integration-test.html
+https://codeutopia.net/blog/2015/04/11/what-are-unit-testing-integration-testing-and-functional-testing/
+http://stackoverflow.com/questions/520064/what-is-unit-test-integration-test-smoke-test-regression-test
+http://istqbexamcertification.com/what-are-test-pyramid-and-testing-quadrants-in-agile-testing-methodology/
+https://www.joecolantonio.com/2015/12/09/why-the-testing-pyramid-is-misleading-think-scales/
