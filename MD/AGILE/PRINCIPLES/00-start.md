@@ -42,11 +42,8 @@ The Manifesto reads [1]:
 The purpose of the Manifesto was to describe a new philosophy upon which more lean and adaptive software development practices could be built.
 
     + *__Individuals and interactions__ over* processes and tools
-
     + *__Working software__ over* comprehensive documentation
-
     + *__Customer collaboration__ over* contract negotiation
-
     + *__Responding to change__ over* following a plan
 
 Theses statement of values was intended to represent the “new” concepts behind Agile approaches (“items on the left”) with the most-common waterfall practices permeated the software development world at the time (“items on the right”).
