@@ -34,7 +34,7 @@ As partes de negócios, requisitos e solicitações do cliente frequetentemente 
 
 Os modelos de desenvolvimento de software da época, liderados pelo modelo _WATERFALL_, não estavam atendendo à demanda em relação a rapidez das mudanças, e não aproveitavam a rapidez com que o software poderia ser alterado.
 
-Em 2000, um grupo de dezessete “líderes de pensamento”, incluindo Jon Kern, Kent Beck, Ward Cunningham, Arie van Bennekum e Alistair Cockburn, se encontraram pela primeira vez _resort_ em Oregon e mais tarde, em 2001, na estância de esqui The Lodge at Snowbird em Utah.
+Em 2000, um grupo de dezessete “líderes de pensamento”, incluindo Jon Kern, Kent Beck, Ward Cunningham, Arie van Bennekum e Alistair Cockburn, se encontraram pela primeira vez _resort_ em Oregon e mais tarde, em 2001, na estância de esqui _The Lodge at Snowbird_ em Utah.
 Foi nessa segunda reunião em que o Manifesto Ágil e os doze princípios foram formalmente escritos.
 
 O Manifesto [1]:
@@ -100,7 +100,7 @@ Esses princípios são um grupo de conceitos guias, com o propósito de ajudar e
    12. _Em intervalos regulares, o time reflete em como ficar mais efetivo, então, se ajustam e otimizam seu comportamento de acordo._
 	
 
-# o que é Agile ?
+# O Que É Agile ?
 
 Finalmente, respondendo a pergunta:
 
