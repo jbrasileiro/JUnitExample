@@ -1,5 +1,4 @@
-
-#Agile Development - The Prologue
+# Agile Development - The Prologue
 
 Agile is a vast global movement that has been transforming the software world.
 A little about history; the movement took off in software development in 2001 and is now spreading rapidly to all parts, and all kinds, of organizations, as recognized in 2016 by the citadel of general management — Harvard Business Review — with its article:
@@ -10,8 +9,7 @@ Yet what exactly is Agile?
 How do you explain Agile when there are more than forty different variants of Agile!?
 
 ![alt tag](/MD/AGILE/PRINCIPLES/img/Agile-40-flavors.jpg)
-
-* Explaining Agile - Agile 40 flavores[2]
+(Explaining Agile - Agile 40 flavores)[2] 
 
 # Going Back to Agile Manifesto
 
@@ -30,15 +28,15 @@ It was at the second meeting where the Agile Manifesto and the Twelve Principles
 The Manifesto reads [1]:
 
 >We are uncovering better ways of developing software by doing it and helping others do it. Through this work, we have come to value:
-
-     *__Individuals and interactions__ over* processes and tools
-
-     *__Working software__ over* comprehensive documentation
-
-     *__Customer collaboration__ over* contract negotiation
-
-     *__Responding to change__ over* following a plan
-
+>
+>     *__Individuals and interactions__ over* processes and tools>
+>
+>     *__Working software__ over* comprehensive documentation>
+>
+>     *__Customer collaboration__ over* contract negotiation
+>
+>     *__Responding to change__ over* following a plan
+>
 >That is, while there is value in the items on the right, we value the items on the left more.
 
 ## Twelve Agile Principles
@@ -75,8 +73,9 @@ The Agile Manifesto is comprised of four foundational values and 12 supporting p
 Each Agile methodology applies the four values in different ways, but all of them rely on them to guide the development and delivery of high-quality, working software.
 
 ![alt tag](/MD/AGILE/PRINCIPLES/img/What-is-Ageil-by-Ahmed-Sidky-r1.jpg)
+(What is Agile)[3]
 
-# What is Agile
+# What is Agile ?
 
 In a nullshell Agile is a time boxed, iterative approach to software delivery that builds software incrementally from the start of the project, instead of trying to deliver it all at once near the end.
 
@@ -90,7 +89,11 @@ To be successful with Agile, you must accept uncertainty, value interactions, an
 # REFERENCES:
 
 [^1]Manifesto for Agile Software Development  - http://agilemanifesto.org/
+
 [^2]Explaining Agile - https://www.forbes.com/sites/stevedenning/2016/09/08/explaining-agile/#5756d66d301b
+
 [^3]What is Agile - https://www.forbes.com/sites/stevedenning/2016/08/13/what-is-agile/#58d0e3026e3d
+
 [^4]What is Agile? - http://www.agilenutshell.com/
+
 [^5]Comprehensive Guide to the Agile Manifesto - https://www.smartsheet.com/comprehensive-guide-values-principles-agile-manifesto
