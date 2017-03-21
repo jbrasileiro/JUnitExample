@@ -27,13 +27,13 @@ The Manifesto reads [1]:
 
 >We are uncovering better ways of developing software by doing it and helping others do it. Through this work, we have come to value:
 >
->   Individuals and interactions over processes and tools
+>     Individuals and interactions over processes and tools
 >
->    Working software over comprehensive documentation
+>     Working software over comprehensive documentation
 >
->    Customer collaboration over contract negotiation
+>     Customer collaboration over contract negotiation
 >
->    Responding to change over following a plan
+>     Responding to change over following a plan
 >
 >That is, while there is value in the items on the right, we value the items on the left more.
 
@@ -41,10 +41,10 @@ The Manifesto reads [1]:
 
 The purpose of the Manifesto was to describe a new philosophy upon which more lean and adaptive software development practices could be built.
 
-    + *__Individuals and interactions__ over* processes and tools
-    + *__Working software__ over* comprehensive documentation
-    + *__Customer collaboration__ over* contract negotiation
-    + *__Responding to change__ over* following a plan
+    + _**Individuals and interactions** over_ processes and tools
+    + _**Working software** over_ comprehensive documentation
+    + _**Customer collaboration** over_ contract negotiation
+    + _**Responding to change** over_ following a plan
 
 Theses statement of values was intended to represent the “new” concepts behind Agile approaches (“items on the left”) with the most-common waterfall practices permeated the software development world at the time (“items on the right”).
 
